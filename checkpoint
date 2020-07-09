@@ -1,0 +1,2 @@
+model_checkpoint_path: "fcnn_vae_2channel1down"
+all_model_checkpoint_paths: "fcnn_vae_2channel1down"
