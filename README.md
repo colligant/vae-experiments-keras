@@ -1,5 +1,5 @@
 # Two implementations of VAEs in Keras
-Complements [this](https://tcolligan4.github.io/2020-07-08-dont-use-convolutional-bottleneck-layers-in-VAEs/) blog post.
+Complements [this](https://tcolligan4.github.io/2020-07-08-don't-use-convolutional-bottleneck-layers-in-VAEs/) blog post.
 
 FCNN-VAE samples             | FC-VAE samples
 :-------------------------:|:-------------------------:
